@@ -8,3 +8,6 @@
 Input: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 picoCTF{ov3rfl0ws_ar3nt_that_bad_6091cc95}
 ```
+
+### Writer
+[yu1hpa](https://twitter.com/yu1hpa)
