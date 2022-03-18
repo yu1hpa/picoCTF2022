@@ -70,3 +70,6 @@ io.sendlineafter("grasshopper!", pld)
 io.interactive()
 #picoCTF{5n47ch_7h3_5h311_0f1f9878}
 ```
+
+### Writer
+[yu1hpa](https://twitter.com/yu1hpa)
