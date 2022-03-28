@@ -8,7 +8,7 @@ Then you download the file from Description, you can get `"drawing.flag.svg"` th
 Because `.svg` format file is `.xml` format file, the file can edit in text editor.
 
 Then you open `drawing.flag.svg` in text editor, String that seems to be flag is written divide some in `<text></text>`.
-```
+```xml
 <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:0.00352781px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
