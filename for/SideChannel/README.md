@@ -9,7 +9,7 @@ $ file pin_checker
 pin_checker: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, stripped
 ```
 
-Then you give execute permission and execute the file, you are required 8 digit PIN.
+Then you give execute permission and execute the file, you find that to input 8 digit PIN is required. So, You can infer that you can get flag by getting correct 8 digit PIN.
 ```
 $ ./pin_checker
 Please enter your 8-digit PIN code:
