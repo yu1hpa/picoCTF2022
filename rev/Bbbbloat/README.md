@@ -39,6 +39,7 @@ $ r2 bbbbloat
 0x00001249   10 190          fcn.00001249
 0x00001000    3 27           fcn.00001000
 ```
+
 According to `afl`, because you can find address of main function, you can do reverse assembly of main function.
 ```
 [0x00001160]> s main
