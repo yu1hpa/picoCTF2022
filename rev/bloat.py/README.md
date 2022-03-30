@@ -3,7 +3,7 @@
 > Can you get the flag? Run this Python program in the same directory as this encrypted flag.
 
 ### Solution
-Then you download the file from Description, you can get `"bloat.flag.py"` and `"flag.txt.enc"`. Then you execute the python file, you find that to input password is required. So, you can infer that you can get flag by getting corrent password.
+Then you download the file from Description, you can get `"bloat.flag.py"` and `"flag.txt.enc"`. Then you execute the python file, you find that to inputting password is required. So, you can infer that you can get flag by getting corrent password.
 ```
 $ python3 bloat.flag.py
 Please enter correct password for flag: aaaa

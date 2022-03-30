@@ -3,7 +3,7 @@
 > Can you get the flag? Run this Python program in the same directory as this encrypted flag.
 
 ### Solution
-Then you download the file from Description, you can get `"patchme.flag.py"` and `"flag.txt.enc"`. You put `patchme.flag.py` and `flag.txt.enc` on same directory and execute `patchme.flag.py` by using `python3`. Then you execute the python file, you find that to input password is required. So, you can infer that you can get flag by getting correct password.
+Then you download the file from Description, you can get `"patchme.flag.py"` and `"flag.txt.enc"`. You put `patchme.flag.py` and `flag.txt.enc` on same directory and execute `patchme.flag.py` by using `python3`. Then you execute the python file, you find that to inputting password is required. So, you can infer that you can get flag by getting correct password.
 ```
 $ ls
 flag.txt.enc  patchme.flag.py
