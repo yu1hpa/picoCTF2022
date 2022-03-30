@@ -53,7 +53,7 @@ This operation repeat while change 1st digit 0 to 9 and you compare instruction 
 | 80000000 | 61092570  |
 | 90000000 | 62051134  |
 
-You look this table and find that instruction number of time of the number whose 1st digit is 4 is increase about 60000000 compared to others number.
+You look this table and find that instruction number of time of the number whose 1st digit is 4 is increase about 60000000 compared with others number.
 From this, you infer that this algorithm of program becomes as follows.
 
 - Compared digit one by one from the left.

@@ -94,7 +94,7 @@ According to `afl`, because you can find address of main function, you can do re
 └           0x000015a9      c3             ret
 ```
 
-Then you do reverse assembly of main function, you can be read that input number is stored to `[var_40h] = $rbp-0x40` and in address `0x000014cb`, the number is compared to `0x86187`.
+Then you do reverse assembly of main function, you can be read that input number is stored to `[var_40h] = $rbp-0x40` and in address `0x000014cb`, the number is compared with `0x86187`.
 Therefore, you can find that correct number is `0x86187 = 549255(10)`.
 
 Then you execute the file and input `549255`, you can get flag.
