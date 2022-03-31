@@ -43,7 +43,7 @@ Also, the range of primes used in <img src="https://latex.codecogs.com/gif.latex
 
 The <img src="https://latex.codecogs.com/gif.latex?p-1" /> method uses the fact that Fermat's little theorem <img src="https://latex.codecogs.com/svg.image?a^{p-1}&space;=&space;1&space;\pmod&space;p" /> holds for mutually prime $a,p$.
 
-If we bring the appropriate number <img src="https://latex.codecogs.com/svg.image?M" /> that is a multiple of <img src="https://latex.codecogs.com/gif.latex?p-1" /> and compute $a^M$, we have <img src="https://latex.codecogs.com/svg.image?a^M&space;=&space;1&space;\pmod&space;p"/> and <img src="https://latex.codecogs.com/svg.image?a^M-1" /> is a multiple of <img src="https://latex.codecogs.com/gif.latex?p"/>.
+If we bring the appropriate number <img src="https://latex.codecogs.com/svg.image?M" /> that is a multiple of <img src="https://latex.codecogs.com/gif.latex?p-1" /> and compute <img src="https://latex.codecogs.com/svg.image?a^M"/>, we have <img src="https://latex.codecogs.com/svg.image?a^M&space;=&space;1&space;\pmod&space;p"/> and <img src="https://latex.codecogs.com/svg.image?a^M-1" /> is a multiple of <img src="https://latex.codecogs.com/gif.latex?p"/>.
 
 That is, by setting the appropriate <img src="https://latex.codecogs.com/svg.image?M"/>. 
 The GCD of <img src="https://latex.codecogs.com/svg.image?a^M-1" /> and <img src="https://latex.codecogs.com/svg.image?n" /> is <img src="https://latex.codecogs.com/gif.latex?p"/>.
@@ -66,7 +66,7 @@ Since <img src="https://latex.codecogs.com/svg.image?a^{(p-1)(q-1)}&space;=a^M&s
 
 <img src="https://latex.codecogs.com/gif.latex?p-1" />法は，互いに素な$a,p$で，フェルマーの小定理<img src="https://latex.codecogs.com/svg.image?a^{p-1}&space;=&space;1&space;\pmod&space;p" />が成り立つことを使います．
 
-<img src="https://latex.codecogs.com/gif.latex?p-1" />の倍数である適当な数<img src="https://latex.codecogs.com/svg.image?M" />を持ってきて，$a^M$ を計算すれば， <img src="https://latex.codecogs.com/svg.image?a^M&space;=&space;1&space;\pmod&space;p" /> が成り立ち， <img src="https://latex.codecogs.com/svg.image?a^M-1" /> が <img src="https://latex.codecogs.com/gif.latex?p" /> の倍数となります．
+<img src="https://latex.codecogs.com/gif.latex?p-1" />の倍数である適当な数<img src="https://latex.codecogs.com/svg.image?M" />を持ってきて，<img src="https://latex.codecogs.com/svg.image?a^M"/> を計算すれば， <img src="https://latex.codecogs.com/svg.image?a^M&space;=&space;1&space;\pmod&space;p" /> が成り立ち， <img src="https://latex.codecogs.com/svg.image?a^M-1" /> が <img src="https://latex.codecogs.com/gif.latex?p" /> の倍数となります．
 
 つまり，適当な<img src="https://latex.codecogs.com/svg.image?M" />を設定することで， 
 <img src="https://latex.codecogs.com/svg.image?a^M-1" /> と <img src="https://latex.codecogs.com/svg.image?n" />の最大公約数が<img src="https://latex.codecogs.com/gif.latex?p" />となります．
