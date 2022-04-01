@@ -5,7 +5,7 @@
 ### Solution
 Causes an overflow and overwrites the return address with a `win()` address.
 
-```
+```python
 from pwn import *
 
 #file = "./vuln"

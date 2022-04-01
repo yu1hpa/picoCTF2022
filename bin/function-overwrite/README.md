@@ -6,11 +6,11 @@
 ### Solution
 Look at this in source code.
 
-```
+```c
   69   │ void (*check)(char*, size_t) = hard_checker;
   70   │ int fun[10] = {0};
 ```
-```
+```c
   82   │   if (num1 < 10)
   83   │   {
   84   │     fun[num1] += num2;
@@ -54,7 +54,7 @@ Address of `easy_check` is `0x080492fc`.
 
 Final solver
 
-```
+```python
 from pwn import *
 
 #file = "./vuln"

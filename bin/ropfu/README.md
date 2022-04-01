@@ -12,7 +12,7 @@ $ ROPgadget --binary vuln --ropchain
 
 Final solver
 
-```
+```python
 from pwn import *
 
 file = "./vuln"

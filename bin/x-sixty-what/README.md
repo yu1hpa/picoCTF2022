@@ -5,10 +5,11 @@
 
 ### Solution
 It just causes an overflow and overwrites the return address with the `win()` address.
+
 But, that's not enough to get the flag.
 Put `ret` gadget in order to align an address.
 
-```
+```python
 from pwn import *
 
 file = "./vuln"

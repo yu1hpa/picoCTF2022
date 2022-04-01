@@ -6,7 +6,7 @@
 The first a condition to get a flag is to win 5 times in rock-scissors-paper.
 
 Look at this code in game-redacted.c
-```
+```c
  100   │   if (strstr(player_turn, loses[computer_turn])) {
  101   │     puts("You win! Play again?");
  102   │     return true;

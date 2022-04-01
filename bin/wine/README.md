@@ -8,7 +8,7 @@ I debugged on the server.
 
 All that remains is to match the offset and overwrites the return address.
 
-```
+```python
 from pwn import *
 
 host = "saturn.picoctf.net"

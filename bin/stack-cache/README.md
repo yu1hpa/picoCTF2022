@@ -7,7 +7,7 @@
 By calling `win()` first and then `UnderConstruction()`,
 can be leaked the stack.
 
-```
+```python
 win = 0x08049da0
 uc = 0x08049e20 #UnderConstruction
 

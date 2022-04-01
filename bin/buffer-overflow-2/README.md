@@ -4,7 +4,7 @@
 > Control the return address and arguments
 
 ### Solution
-**I guess my solution is non-assumed solution.**
+I guess my solution is non-assumed solution.
 
 After causing an overflow and overwrites the return address,
 you have to set the value to the first and second arguments as shown below.
@@ -31,7 +31,7 @@ $ropper -f vuln --search "pop esi; pop edi;"
 
 Final solution
 
-```
+```python
 from pwn import *
 
 #file = "./vuln"
