@@ -5,7 +5,7 @@
 ### Solution
 Then you download the file from Description, you can get `"SafeOpener.java"`.
 You compile the file by using `javac` command and generate `SafeOpener.class`.
-Then you execute `SafeOpener.class`, you find that to input password is required.
+Then you execute `SafeOpener.class`, you find that to inputting password is required.
 From Description, because flag format is `picoCTF{password}`, you can get flag by getting correct password.
 ```
 $ java SafeOpener
