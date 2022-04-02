@@ -9,7 +9,7 @@ $ file bbbbloat
 bbbbloat: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=7a84389cb2bf31311778992121916d06a92bf701, for GNU/Linux 3.2.0, stripped
 ```
 
-Then you give execute permission to the file and execute the file, you find that to input number is required. So, You can infer that you can get flag by getting correct number.
+Then you give execute permission to the file and execute the file, you find that to input number is required. So, you can infer that you can get flag by getting correct number.
 ```
 $ ./bbbbloat
 What's my favorite number? 39
