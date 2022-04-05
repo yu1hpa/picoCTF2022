@@ -2,19 +2,22 @@
 # Sequences
 
 To rephrase this problem, we can say that
+
+
 <img src="https://latex.codecogs.com/svg.image?(a_0,a_1,a_2,a_3)=(1,2,3,4)\\a_n&space;=&space;55692a_{n-4}-9549a_{n-3}&plus;301a_{n-2}&plus;21a_{n-1}\;&space;(n\geq&space;4)\\a_{20000000}&space;\pmod{10^{10000}}&space;=&space;?"/>
 
 If one tries to find the numbers up to N=20000000 in sequence, the computational complexity is O(N), and since 10000 digits must be kept, it is very time-consuming.
 
 In fact, This Recurrence formula can be expressed as follows.
+
 <img src="https://latex.codecogs.com/svg.image?\begin{pmatrix}21&301&space;&-9549&55692\\1&0&0&0\\0&1&0&0\\0&0&1&0\end{pmatrix}&space;^{n-3}\begin{pmatrix}a_3\\a_2\\a_1\\a_0\end{pmatrix}=\begin{pmatrix}a_n\\a_{n-1}\\a_{n-2}\\a_{n-3}\\\end{pmatrix}"/>
 
 
 There is a method to find a matrix to the Nth power with a computational complexity of O(log N).
 This is an extension of fast modular exponentiation, which is used to compute powers in integers.
 
-For more information, I think ![khan academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/fast-modular-exponentiation) is good to understand
-
+For more information, I think [khan academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/fast-modular-exponentiation) is good to understand
+    
 <details>
 <summary>日本語 (in Japanese)</summary>
 

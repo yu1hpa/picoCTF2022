@@ -111,4 +111,5 @@ print(long_to_bytes(m))
 ### References
 
 この問題を解くにあたって下記の記事を参考にさせていただきました．
+
 https://wacchoz.hatenablog.com/entry/2019/01/20/120000
