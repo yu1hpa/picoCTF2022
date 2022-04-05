@@ -41,7 +41,7 @@ Also, the range of primes used in <img src="https://latex.codecogs.com/svg.latex
 
 
 
-The <img src="https://latex.codecogs.com/svg.latex?p-1" /> method uses the fact that Fermat's little theorem <img src="https://latex.codecogs.com/svg.image?a^{p-1}&space;=&space;1&space;\pmod&space;p" /> holds for mutually prime $a,p$.
+The <img src="https://latex.codecogs.com/svg.latex?p-1" /> method uses the fact that Fermat's little theorem <img src="https://latex.codecogs.com/svg.image?a^{p-1}&space;=&space;1&space;\pmod&space;p" /> holds for mutually prime <img src="https://latex.codecogs.com/svg.image?a,p" />.
 
 If we bring the appropriate number <img src="https://latex.codecogs.com/svg.image?M" /> that is a multiple of <img src="https://latex.codecogs.com/svg.latex?p-1" /> and compute <img src="https://latex.codecogs.com/svg.image?a^M"/>, we have <img src="https://latex.codecogs.com/svg.image?a^M&space;=&space;1&space;\pmod&space;p"/> and <img src="https://latex.codecogs.com/svg.image?a^M-1" /> is a multiple of <img src="https://latex.codecogs.com/svg.latex?p"/>.
 
@@ -64,7 +64,7 @@ Since <img src="https://latex.codecogs.com/svg.image?a^{(p-1)(q-1)}&space;=a^M&s
 
 `gen.py`にある`DEGUB`を実行し，プログラムも合わせて見ると，<img src="https://latex.codecogs.com/svg.latex?p" />と<img src="https://latex.codecogs.com/svg.latex?q" />は小さな素数の積に<img src="https://latex.codecogs.com/svg.image?1" />を足して作られていることがわかります(もし<img src="https://latex.codecogs.com/svg.image?1" />を足しても素数にならなければ作り直している")．また，<img src="https://latex.codecogs.com/svg.latex?p" />と<img src="https://latex.codecogs.com/svg.latex?q" />で使われている素数の範囲も異なっています．この状況に対して，<img src="https://latex.codecogs.com/svg.latex?p-1" />法という素因数分解の手法が使えます．
 
-<img src="https://latex.codecogs.com/svg.latex?p-1" />法は，互いに素な$a,p$で，フェルマーの小定理<img src="https://latex.codecogs.com/svg.image?a^{p-1}&space;=&space;1&space;\pmod&space;p" />が成り立つことを使います．
+<img src="https://latex.codecogs.com/svg.latex?p-1" />法は，互いに素な<img src="https://latex.codecogs.com/svg.image?a,p" />で，フェルマーの小定理<img src="https://latex.codecogs.com/svg.image?a^{p-1}&space;=&space;1&space;\pmod&space;p" />が成り立つことを使います．
 
 <img src="https://latex.codecogs.com/svg.latex?p-1" />の倍数である適当な数<img src="https://latex.codecogs.com/svg.image?M" />を持ってきて，<img src="https://latex.codecogs.com/svg.image?a^M"/> を計算すれば， <img src="https://latex.codecogs.com/svg.image?a^M&space;=&space;1&space;\pmod&space;p" /> が成り立ち， <img src="https://latex.codecogs.com/svg.image?a^M-1" /> が <img src="https://latex.codecogs.com/svg.latex?p" /> の倍数となります．
 
