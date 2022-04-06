@@ -40,3 +40,6 @@ picoCTF{mm15_f7w!}
 ```
 
 Therefore, flag is `picoCTF{mm15_f7w!}`.
+
+### Writer
+Yajirushi

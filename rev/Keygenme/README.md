@@ -206,3 +206,6 @@ That key is valid.
 ```
 
 Therefore, flag is `picoCTF{br1ng_y0ur_0wn_k3y_3b70ca1e}`.
+
+### Writer
+Yajirushi

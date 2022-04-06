@@ -19,3 +19,6 @@ saturn.picoctf.net:56849/css/style.css:/** banner_main picoCTF{1nsp3ti0n_0f_w3bp
 ```
 
 Therefore, flag is `picoCTF{1nsp3ti0n_0f_w3bpag3s_74784981}`.
+
+### Writer
+Yajirushi

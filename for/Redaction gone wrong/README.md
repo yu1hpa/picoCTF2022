@@ -15,3 +15,6 @@ Then you drag part coated black by mouse, you can find hidden strings in this pa
 ![Financial_Report_for_ABC_Labs.pdf_2](Report2.png)
 
 Therefore, flag is `picoCTF{C4n_Y0u_S33_m3_fully}`.
+
+### Writer
+Yajirushi

@@ -127,4 +127,7 @@ Password correct. Here's your flag:
 picoCTF{t1m1ng_4tt4ck_6e11b28e}
 ```
 
-Therefore, flag is `picoCTF{t1m1ng_4tt4ck_6e11b28e}`
+Therefore, flag is `picoCTF{t1m1ng_4tt4ck_6e11b28e}`.
+
+### Writer
+Yajirushi

@@ -82,3 +82,6 @@ picoCTF{up><_m3_f7w_2fce46e8}
 ```
 
 Therefore, flag is `picoCTF{up><_m3_f7w_2fce46e8}`.
+
+### Writer
+Yajirushi

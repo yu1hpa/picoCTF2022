@@ -178,3 +178,6 @@ Valid key
 ```
 
 Therefore, flag is `picoCTF{700l1ng_r3qu1r3d_84e23997}`.
+
+### Writer
+Yajirushi

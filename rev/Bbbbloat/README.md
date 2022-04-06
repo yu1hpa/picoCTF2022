@@ -105,3 +105,6 @@ picoCTF{cu7_7h3_bl047_d059b523}
 ```
 
 Therefore, flag is `picoCTF{cu7_7h3_bl047_d059b523}`.
+
+### Writer
+Yajirushi

@@ -90,3 +90,6 @@ Warning: not running
 ```
 
 Therefore, flag is `picoCTF{d3bugg3r_dr1v3_3eab6731}`.
+
+### Writer
+Yajirushi

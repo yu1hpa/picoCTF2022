@@ -100,3 +100,6 @@ ctf-player@challenge:~$ cat flag.txt
 picoCTF{k3y_5l3u7h_d6570e30}
 ```
 Therefore, flag is `picoCTF{k3y_5l3u7h_d6570e30}`.
+
+### Writer
+Yajirushi

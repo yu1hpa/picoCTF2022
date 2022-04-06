@@ -129,3 +129,6 @@ picoCTF{d30bfu5c4710n_f7w_1763a697}
 ```
 
 Therefore, flag is `picoCTF{d30bfu5c4710n_f7w_1763a697}`.
+
+### Writer
+Yajirushi

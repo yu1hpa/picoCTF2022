@@ -65,3 +65,6 @@ print(flag)
 ```
 So, then you convert the string by ASCII code, you can get converted string `picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_751753b0}`.
 Therefore, flag is `picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_751753b0}`.
+
+### Writer
+Yajirushi

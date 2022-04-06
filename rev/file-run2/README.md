@@ -27,3 +27,6 @@ The flag is: picoCTF{F1r57_4rgum3n7_0097836e}
 ```
 
 Therefore, flag is `picoCTF{F1r57_4rgum3n7_0097836e}`.
+
+### Writer
+Yajirushi

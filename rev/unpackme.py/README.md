@@ -43,3 +43,6 @@ else:
 According to above source code, the program compare inputted password and correct password `"battery horse"` and print flag if inputted password is matched with correct password.
 
 Therefore, flag is `picoCTF{175_chr157m45_45a1a353}`.
+
+### Writer
+Yajirushi

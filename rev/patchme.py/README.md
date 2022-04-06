@@ -37,3 +37,6 @@ picoCTF{p47ch1ng_l1f3_h4ck_68aa6913}
 ```
 
 Therefore, flag is `picoCTF{p47ch1ng_l1f3_h4ck_68aa6913}`.
+
+### Writer
+Yajirushi

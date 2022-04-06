@@ -86,3 +86,6 @@ Sesame open
 ```
 
 Therefore, flag is `picoCTF{pl3as3_l3t_m3_1nt0_th3_saf3}`.
+
+### Writer
+Yajirushi
