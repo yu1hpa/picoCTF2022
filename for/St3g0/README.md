@@ -56,5 +56,7 @@ picoCTF{7h3r3_15_n0_5p00n_f2f7a0e5}$t3g0
 
 Therefore, flag is `picoCTF{7h3r3_15_n0_5p00n_f2f7a0e5}`.
 
+### Reference
+[LSB Image Steganography Using Python](https://medium.com/swlh/lsb-image-steganography-using-python-2bbbee2c69a2)
 ### Writer
 Yajirushi
